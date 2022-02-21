@@ -15,9 +15,9 @@ Collection of strawberry React Hooks ready to install with NPM with nico's class
 - [x] useConfirm (Not using useState or useEffect)
 - [x] usePreventLeave (Not using useState or useEffect)
 - [x] useBeforeLeave
-- [ ] useFadeIn
+- [x] useFadeIn
+- [x] useNetwork
 - [ ] useFullscreen
-- [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
 - [ ] useAxios
